@@ -1,5 +1,5 @@
 # CODSOFT
-#CODSOFT iNTERNSHIP PROGRAM
+#CODSOFT INTERNSHIP PROGRAM
 Here I have done,
 TASK 02 - CREDIT CARD FRAUD DETECTION ( Data Set - https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 TASK 03 - CUSTOMER CHURN PREDICTION ( Data set - https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
