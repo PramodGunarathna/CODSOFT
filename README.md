@@ -8,4 +8,6 @@ Here I have done,
 
 3.TASK 04 - SPAM SMS DETECTION (Data Set - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
+A separate branch is prepared for each task.
+
 I Have Attached all Three Data sets here.When running, download the file and change the file path in readcsv(_) of the .ipynb file accordingly.
